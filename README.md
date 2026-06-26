@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,100:ea580c&height=200&section=header&text=Hugo%20Berdon&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20engineer%20by%20day,%20tech%20geek%20by%20night&descSize=18&descAlignY=60" width="100%" alt="Hugo Berdon" />
-
-</div>
+<img src="assets/hero.svg" width="100%" alt="Hugo Berdon — Love crafting software solutions & architecture" />
 
 ### 👋 Hi, I'm Hugo
 

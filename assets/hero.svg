@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-label="Hugo Berdon — Love crafting software solutions & architecture">
+  <defs>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7b23b"/>
+      <stop offset="100%" stop-color="#ef9b3c"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f7b23b" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#f7b23b" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f7b23b" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#f7b23b" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#383b44" fill-opacity="0.45"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="340" fill="#0d0e12"/>
+  <rect width="1200" height="340" fill="url(#dots)"/>
+
+  <!-- Ambient amber glows -->
+  <ellipse cx="170" cy="90" rx="320" ry="260" fill="url(#glowA)"/>
+  <ellipse cx="1080" cy="290" rx="300" ry="240" fill="url(#glowB)"/>
+
+  <!-- Top-right wordmark -->
+  <text x="1120" y="56" text-anchor="end" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#e6eaef">hb<tspan fill="url(#amber)">.</tspan></text>
+
+  <!-- Eyebrow -->
+  <circle cx="92" cy="119" r="4.5" fill="#f7b23b"/>
+  <text x="108" y="124" font-family="ui-monospace, 'JetBrains Mono', 'Fira Code', monospace" font-size="14" letter-spacing="0.5" fill="#828891">Available for consulting &amp; architecture work</text>
+
+  <!-- Heading -->
+  <text x="88" y="186" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="900" letter-spacing="-1.5" fill="#e6eaef">Love crafting software</text>
+  <text x="88" y="244" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="900" letter-spacing="-1.5" fill="url(#amber)">solutions &amp; architecture.</text>
+
+  <!-- Subheading -->
+  <text x="90" y="292" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#a8aeb8">Software engineer by day, tech geek by night.</text>
+</svg>
