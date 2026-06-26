@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="Hugo Berdon — Love crafting software solutions & architecture" />
+<img src="assets/hero.png" width="100%" alt="Hugo Berdon — Love crafting software solutions & architecture" />
 
 ### 👋 Hi, I'm Hugo
 
